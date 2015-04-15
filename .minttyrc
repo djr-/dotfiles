@@ -1,0 +1,6 @@
+BoldAsFont=no
+Transparency=low
+OpaqueWhenFocused=yes
+Columns=160
+Rows=48
+PgUpDnScroll=yes
