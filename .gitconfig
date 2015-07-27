@@ -1,3 +1,5 @@
 [user]
 	email = drewjryder@gmail.com
 	name = =
+[alias]
+	unstage = reset HEAD --
