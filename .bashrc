@@ -201,6 +201,7 @@ shopt -s nocaseglob
 # 
 # alias cd=cd_func
 alias ls="ls --color -a"
+alias grep="grep --color"
 alias cdd="cd /c/users/drew/documents/"
 alias open="cygstart"
 alias vs="/c/program\ Files\ \(x86\)/Microsoft\ Visual\ Studio\ 12.0/Common7/IDE/devenv.exe"
